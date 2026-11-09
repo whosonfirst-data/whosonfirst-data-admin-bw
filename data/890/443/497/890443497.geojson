@@ -267,7 +267,7 @@
     },
     "wof:country":"BW",
     "wof:created":1469052426,
-    "wof:geomhash":"c6ec3ade9fec006dabe47521de9d91cb",
+    "wof:geomhash":"bfbe0687d668e66df3237a16e4b1b1d8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,5 +294,5 @@
     21.75,
     -24.0
 ],
-  "geometry": {"coordinates":[21.75,-24.0],"type":"Point"}
+  "geometry": {"coordinates":[21.75,-24],"type":"Point"}
 }

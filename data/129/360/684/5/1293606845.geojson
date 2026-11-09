@@ -40,7 +40,7 @@
         "gn:id":933268
     },
     "wof:country":"BW",
-    "wof:geomhash":"447419a07109353ddb31dd6bdc6c364a",
+    "wof:geomhash":"9759cc5b46b3033a625b74bf6ff500cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,5 +65,5 @@
     27.11667000000001,
     -23.03333
 ],
-  "geometry": {"coordinates":[27.11667000000001,-23.03333],"type":"Point"}
+  "geometry": {"coordinates":[27.11667,-23.03333],"type":"Point"}
 }

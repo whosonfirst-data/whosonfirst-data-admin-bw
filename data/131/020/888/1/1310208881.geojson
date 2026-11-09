@@ -65,7 +65,7 @@
         "wk:page":"Ikongwe"
     },
     "wof:country":"BW",
-    "wof:geomhash":"f730ecf4ed4754abe2f769282e50d7c6",
+    "wof:geomhash":"abd78465e04eef7ceadd2820898e0647",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     26.42269000000001,
     -23.13563
 ],
-  "geometry": {"coordinates":[26.42269000000001,-23.13563],"type":"Point"}
+  "geometry": {"coordinates":[26.42269,-23.13563],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"Moiyabana"
     },
     "wof:country":"BW",
-    "wof:geomhash":"99d39f8cd24675c4effa8c6d267cc969",
+    "wof:geomhash":"c24aa22faed3006e006d575f3d08d3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     26.40449000000001,
     -22.6318
 ],
-  "geometry": {"coordinates":[26.40449000000001,-22.6318],"type":"Point"}
+  "geometry": {"coordinates":[26.40449,-22.6318],"type":"Point"}
 }

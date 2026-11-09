@@ -38,7 +38,7 @@
         "gn:id":7663544
     },
     "wof:country":"BW",
-    "wof:geomhash":"25e57469bc06e4a8e977c60e1026599d",
+    "wof:geomhash":"f983ce2d5a05d45da9da2f1d27a17386",
     "wof:hierarchy":[
         {
             "country_id":85632235,
@@ -61,5 +61,5 @@
     26.90533,
     -22.92082000000001
 ],
-  "geometry": {"coordinates":[26.90533,-22.92082000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.90533,-22.92082],"type":"Point"}
 }

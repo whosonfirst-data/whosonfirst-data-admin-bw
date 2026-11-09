@@ -81,7 +81,7 @@
         "wk:page":"Mmadinare"
     },
     "wof:country":"BW",
-    "wof:geomhash":"5a2cb877463a3c86898c431da4cb366d",
+    "wof:geomhash":"bf994e7b26ab410ad33174e18a111fe2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -106,5 +106,5 @@
     27.61667000000001,
     -21.95
 ],
-  "geometry": {"coordinates":[27.61667000000001,-21.95],"type":"Point"}
+  "geometry": {"coordinates":[27.61667,-21.95],"type":"Point"}
 }

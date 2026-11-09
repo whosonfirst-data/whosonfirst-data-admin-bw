@@ -65,7 +65,7 @@
         "wk:page":"Nswazwi"
     },
     "wof:country":"BW",
-    "wof:geomhash":"74a5c0ef62932c489b34f5714cc710bc",
+    "wof:geomhash":"6a61f55be7a717a5275b050dac9f4e88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     27.23134000000001,
     -20.65796
 ],
-  "geometry": {"coordinates":[27.23134000000001,-20.65796],"type":"Point"}
+  "geometry": {"coordinates":[27.23134,-20.65796],"type":"Point"}
 }
