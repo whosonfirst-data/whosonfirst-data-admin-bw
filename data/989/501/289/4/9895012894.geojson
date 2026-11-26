@@ -1,0 +1,72 @@
+{
+  "id": 9895012894,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.5708,-18.40401,21.5708,-18.40401",
+    "geom:latitude":-18.40401,
+    "geom:longitude":21.5708,
+    "iso:country":"BW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719481: name \"Gani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719481"
+        },
+        {
+            "citation":"GeoNames populated place 12719481: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719481"
+        },
+        {
+            "citation":"GeoNames populated place 12719481: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719481"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669599 (North-West), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235,
+        85669599,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719481
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"c5db9be8d24eb60349e727f0d7c93c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":9895012894,
+            "region_id":85669599
+        }
+    ],
+    "wof:id":9895012894,
+    "wof:lastmodified":1795735178,
+    "wof:name":"Gani",
+    "wof:parent_id":85669599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.5708,
+    -18.40401,
+    21.5708,
+    -18.40401
+],
+  "geometry": {"coordinates":[21.5708,-18.40401],"type":"Point"}
+}
