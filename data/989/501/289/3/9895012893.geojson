@@ -1,0 +1,73 @@
+{
+  "id": 9895012893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7518,-21.8765,27.7518,-21.8765",
+    "geom:latitude":-21.8765,
+    "geom:longitude":27.7518,
+    "gn:population":13198,
+    "iso:country":"BW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640340: name \"Mmadinare\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640340"
+        },
+        {
+            "citation":"GeoNames populated place 12640340: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640340"
+        },
+        {
+            "citation":"GeoNames populated place 12640340: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640340"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85669601 (Central), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235,
+        85669601,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640340
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"787dd9acd676ed6330de18f55216c6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "locality_id":9895012893,
+            "region_id":85669601
+        }
+    ],
+    "wof:id":9895012893,
+    "wof:lastmodified":1795735178,
+    "wof:name":"Mmadinare",
+    "wof:parent_id":85669601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7518,
+    -21.8765,
+    27.7518,
+    -21.8765
+],
+  "geometry": {"coordinates":[27.7518,-21.8765],"type":"Point"}
+}
