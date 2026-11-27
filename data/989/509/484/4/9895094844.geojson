@@ -1,0 +1,78 @@
+{
+  "id": 9895094844,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25,-18.5,25,-18.5",
+    "geom:latitude":-18.5,
+    "geom:longitude":25.0,
+    "gn:population":28743,
+    "iso:country":"BW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 933840 (Chobe District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/933840"
+        },
+        {
+            "citation":"GeoNames division 933840 (Chobe District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/933840"
+        },
+        {
+            "citation":"GeoNames division 933840 (Chobe District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/933840"
+        },
+        {
+            "citation":"GeoNames division 933840 (Chobe District): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/933840"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Chobe"
+    ],
+    "name:eng_x_variant":[
+        "Chobe District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632235,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":933840
+    },
+    "wof:country":"BW",
+    "wof:geomhash":"5c2a95abae97a90960a44edd0a6d59be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632235,
+            "region_id":9895094844
+        }
+    ],
+    "wof:id":9895094844,
+    "wof:lastmodified":1795801381,
+    "wof:name":"Chobe",
+    "wof:parent_id":85632235,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-bw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0,
+    -18.5,
+    25.0,
+    -18.5
+],
+  "geometry": {"coordinates":[25,-18.5],"type":"Point"}
+}
